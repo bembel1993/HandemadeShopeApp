@@ -13,6 +13,7 @@ ____
 #### 4. Creat, read, update, delete  
 #### 5. Multi-factor validation
 #### 6. Consumer cart, section of orders, counter of added products
+#### 7. Two roles usages of application
 ____
 ### Using App
 #### Main Page
