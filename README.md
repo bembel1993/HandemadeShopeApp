@@ -1,4 +1,19 @@
 # HandemadeShopeApp
+____
+### Used technologies
+#### Language - PHP
+#### Conception - AJAX, Object-oriented programming
+#### Server - Apache
+#### DB - MySQL
+____
+### Features Application
+#### 1. Registration unique Person
+#### 2. Authorization
+#### 3. Set session
+#### 4. Creat, read, update, delete  
+#### 5. Multi-factor validation
+#### 6. Consumer cart, section of orders, counter of added products
+____
 ### Using App
 #### Main Page
 ![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/p1.png)
