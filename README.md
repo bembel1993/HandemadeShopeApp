@@ -14,7 +14,7 @@ ____
 #### 5. Multi-factor validation
 #### 6. Consumer cart, section of orders, counter of added products
 #### 7. Two roles usages of application
-#### 8. I will add a system of like for roduction
+#### 8. I will add a system of like for products
 ____
 ### Using App
 #### Main Page
